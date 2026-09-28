@@ -27,8 +27,6 @@ gcc -Wall -o playlist_manager playlist_manager.c
 
 ---
 
-# 10-Minute Presentation Script
-
 ## Introduction and problem statement
 
 "Good morning. Our mini project is a **Music Playlist Manager** written in C.
